@@ -17,7 +17,7 @@ This chatbot can help you provide restaurant suggestions based on your requireme
 
 
 ## SAMPLE OUTPUT - The user recieves an email of the suggestions :- 
-![alt text](https://github.com/HemanthTejaY/Find-Your-Food--Dining-Concirerge/blob/master/github-images/the-bot.jpg)
+![alt text](https://user-images.githubusercontent.com/63943580/102302308-c583fa00-3f26-11eb-9bc2-87b0d8c68cf1.png)
 
  
 
